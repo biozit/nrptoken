@@ -1,0 +1,4 @@
+{  
+    "issuer":"http://token.nationalresearchplatform.org/fandri",
+    "jwks_uri":"http://token.nationalresearchplatform.org/fandri/oauth2/keys"
+}
